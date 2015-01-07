@@ -1,0 +1,46 @@
+******** Query 1 ********
+
+first  |  last  |  cnt
+-----------------------
+Leigh | Hart | 9
+
+
+******** Query 2 ********
+
+charge_id
+---------
+5000 
+
+
+******** Query 3 ********
+
+first  |  last  
+----------------
+Sam | Phelps
+Dave | Caulk
+Tommy | Cat
+Tim | Simon
+Reed | Pints
+Nancy | Mansville
+Cart | Perry
+Penny | Statin
+Lee | Panner
+
+
+******** Query 4 ********
+
+criminal_id  |  first  |  last  |  cnt_sentence
+-----------------------------------------------
+1030    |   Lee   |   Panner   |   2
+
+
+******** Query 5 ********
+
+precinct  |  cnt_charges
+------------------------
+WAVE | 8
+
+
+******** Query 6 ********
+
+Officer 111115 has reported 9 crimes.
